@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Shalu Sharma</h1>
+ # Hi there, I am Shalu Sharma <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
+<h2 align=>About me: </h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalu9576" alt="shalu9576" /></a> </p>
 
-- 🔭 I’m currently working as Intern *at CDAC*
+I am an IT graduate from MIT School of Engineering in Pune, India, currently working as a Project Intern at CDAC. I have a strong passion for learning new technologies and have recently started exploring the world of AI/ML. I am actively looking for new opportunities in the fields of computer vision and AI/ML.
 
-- 🌱 I’m currently learning *opencv and computer vision*
-
-- 👯 I’m looking for opportunity in *field of computer vision, web deveploment, and AI/ML roles*
-
-- 📝 You can also find me writing at [https://medium.com/@shalusharma9576](https://medium.com/@shalusharma9576)
-
-- 📫 How to reach me *shalusharma9576@gmail.com*
+## How to Reach Me
+- Email: [shalusharma9576@gmail.com](mailto:shalusharma9576@gmail.com)
+- Medium: [Read my writings](https://medium.com/@shalusharma9576)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
